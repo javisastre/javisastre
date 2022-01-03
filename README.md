@@ -30,5 +30,5 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javisastre&show_icons=true&theme=dark&locale=en&layout=compact&hide=handlebars,shell" alt="javisastre" width="40%"/></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javisastre&show_icons=true&theme=dark&locale=en&layout=compact&hide=handlebars,shell" alt="javisastre" width="40%"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=javisastre&show_icons=true&theme=dark&locale=en" alt="javisastre" width="45%"/></p><br>
 
