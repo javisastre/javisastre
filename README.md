@@ -30,5 +30,5 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javisastre&layout=compact&hide=handlebars, shell)](https://github.com/javisastre/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javisastre&show_icons=true&theme=dark&locale=en&layout=compact&hide=handlebars,shell" alt="javisastre" width="40%"/></p><br>
 
