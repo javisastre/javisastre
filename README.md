@@ -10,9 +10,7 @@
 
 🔍 Find me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javi-sastre-web-dev/)
 
-
-
-
+<br><br>
 
 <p align="left" width="100%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50px" />
@@ -29,4 +27,8 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="50px" />
 </p>
+
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javisastre&layout=compact&hide=handlebars, shell)](https://github.com/javisastre/github-readme-stats)
 
