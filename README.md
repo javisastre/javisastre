@@ -1,10 +1,10 @@
 <h1>Hola! Javi on the line ☎️</h1>
 
-🧬 I am a **web developer** and **graphic designer** from Barcelona. After 12 years working as a graphic designer and communication manager, in 2021 I decided I wanted a change and I enrolled in **Ironhack's WebDev bootcamp**.
+🧬 I am a **web developer** and **graphic designer** from Barcelona. After 12 years working as a graphic designer and communication manager, in January 2021 I decided I wanted a change and I enrolled in **Ironhack's WebDev bootcamp**.
 
-🔭 I’m currently working as a **Teacher Assistant** in Web Development bootcamps at **[CodeOp](https://codeop.tech/)**.
+🔭 I’m currently working as a **Frontend Developer** at **[CADT Software & Drafting](http://www.cadt.com/)**.
 
-🌱 I’m currently learning **Vue** and **MySQL**.
+🌱 I’m currently learning **Vue**.
 
 ⚡ Fun fact: some people know me as Javi, some as **JaviScript**.
 
