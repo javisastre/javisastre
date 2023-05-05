@@ -2,9 +2,7 @@
 
 🧬 I am a **web developer** and **graphic designer** from Barcelona. After 12 years working as a graphic designer and communication manager, in January 2021 I enrolled in **Ironhack's WebDev bootcamp**.
 
-🔭 I’m currently working as a **Frontend Developer** at **[CADT Software & Drafting](http://www.cadt.com/)**.
-
-🌱 I’m currently learning **Vue**.
+🔭 I’m currently working as a **Frontend Developer** at **[Dallonses](https://www.dallonses.com/ca/))**.
 
 ⚡ Fun fact: some people know me as Javi, some as **JaviScript**.
 
