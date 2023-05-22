@@ -1,10 +1,10 @@
-<h1>Hola! Javi on the line ☎️</h1>
+<h1>Hola! Javi on the line ⚡</h1>
 
 🧬 I am a **web developer** and **graphic designer** from Barcelona. After 12 years working as a graphic designer and communication manager, in January 2021 I enrolled in **Ironhack's WebDev bootcamp**.
 
 🔭 I’m currently working as a **Frontend Developer** at **[Dallonses](https://www.dallonses.com/ca/)**.
 
-⚡ Fun fact: some people know me as Javi, some as **JaviScript**.
+💡 Fun fact: some people know me as Javi, some as **JaviScript**.
 
 🔍 Find me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javi-sastre-web-dev/)
 
